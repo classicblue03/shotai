@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'PPWoodland, sans-serif';
+    src: url(../fonts/PPWoodland-Regular.otf) format('woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Rules, sans-serif';
+    src: url(../fonts/Rules-Regular.otf) format('woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Rules, sans-serif';
+    src: url(../fonts/Rules-Medium.otf) format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Rules, sans-serif';
+    src: url(../fonts/Rules-Bold.otf) format('woff');
+    font-weight: 700;
+}
